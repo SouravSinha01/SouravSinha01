@@ -11,8 +11,8 @@
   <a href="https://github.com/SouravSinha01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <!-- Replace the links below when your profiles are ready. -->
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="YOUR_ORCID_URL"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="YOUR_GOOGLE_SCHOLAR_URL"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0009-0008-2338-5202?lang=en"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://scholar.google.com/citations?user=6hUzTXwAAAAJ&hl=en&authuser=1"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 </p>
 
 ---
@@ -135,7 +135,7 @@ I am interested in connecting with students, researchers, and developers working
   &nbsp;•&nbsp;
   <a href="https://orcid.org/0009-0008-2338-5202?lang=en">ORCID</a>
   &nbsp;•&nbsp;
-  <a href="YOUR_GOOGLE_SCHOLAR_URL">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?user=6hUzTXwAAAAJ&hl=en&authuser=1">Google Scholar</a>
 </p>
 
 ---
