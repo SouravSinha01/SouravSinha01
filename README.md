@@ -133,9 +133,7 @@ I am interested in connecting with students, researchers, and developers working
 <p align="center">
   <a href="mailto:sinhasourav391@gmail.com">Email</a>
   &nbsp;•&nbsp;
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="YOUR_ORCID_URL">ORCID</a>
+  <a href="https://orcid.org/0009-0008-2338-5202?lang=en">ORCID</a>
   &nbsp;•&nbsp;
   <a href="YOUR_GOOGLE_SCHOLAR_URL">Google Scholar</a>
 </p>
