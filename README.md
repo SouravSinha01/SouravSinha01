@@ -9,9 +9,8 @@
 <p align="center">
   <a href="mailto:sinhasourav391@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/SouravSinha01"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Replace the links below when your profiles are ready. -->
-  <a href="https://orcid.org/0009-0008-2338-5202?lang=en"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
-  <a href="https://scholar.google.com/citations?user=6hUzTXwAAAAJ&hl=en&authuser=1"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0009-0008-2338-5202"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://scholar.google.com/citations?user=6hUzTXwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 </p>
 
 ---
@@ -95,24 +94,52 @@ Ageing Biology            Scientific Computing        Reproducible Research
 - Notes, utilities, and reproducible research templates
 - Open-source contributions made while learning and improving
 
-## Publications and Research Outputs
+## Research Articles
 
-This section will be updated as my **publications, preprints, posters, presentations, datasets, and software releases** become publicly available.
+### First-Author Publications
+
+Research articles for which I am the **first author or joint first author** will be listed here.
+
+_Currently being updated as articles become publicly available._
 
 <!--
-Suggested future format:
+Example entry:
 
-### Publications
-1. **Paper title**  
-   Author list. *Journal or Conference*, Year.  
-   [Paper](LINK) · [Code](LINK) · [Data](LINK)
-
-### Posters and Presentations
-- **Title** — Event or Institution, Year. [Slides](LINK)
-
-### Software and Datasets
-- **Resource name** — One-line description. [Repository](LINK) · [DOI](LINK)
+1. **Title of the research article**  
+   **Sourav Sinha**, Co-author Name, Co-author Name.  
+   *Journal Name*, Year.  
+   [Article](PAPER_LINK) · [Code](CODE_LINK) · [Data](DATA_LINK)
 -->
+
+### Co-authored and Collaborative Publications
+
+Research articles to which I have contributed as a **co-author or research collaborator** will be listed here.
+
+_Currently being updated as articles become publicly available._
+
+<!--
+Example entry:
+
+1. **Title of the research article**  
+   Lead Author, **Sourav Sinha**, Other Authors.  
+   *Journal Name*, Year.  
+   **Contribution:** Bioinformatics analysis, data processing, visualization, or method development.  
+   [Article](PAPER_LINK) · [Code](CODE_LINK) · [Data](DATA_LINK)
+-->
+
+<details>
+<summary><strong>Other research outputs</strong></summary>
+<br />
+
+Future additions may include:
+
+- Preprints
+- Conference posters and presentations
+- Public datasets
+- Research software
+- Technical reports
+
+</details>
 
 ## GitHub Activity
 
@@ -125,6 +152,15 @@ Suggested future format:
   <img src="https://streak-stats.demolab.com?user=SouravSinha01&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouravSinha01/SouravSinha01/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SouravSinha01/SouravSinha01/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/SouravSinha01/SouravSinha01/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph" />
+  </picture>
+</p>
+
 ## Connect
 
 I am interested in connecting with students, researchers, and developers working across computational biology, bioinformatics, biological data science, and open-source scientific software.
@@ -132,9 +168,9 @@ I am interested in connecting with students, researchers, and developers working
 <p align="center">
   <a href="mailto:sinhasourav391@gmail.com">Email</a>
   &nbsp;•&nbsp;
-  <a href="https://orcid.org/0009-0008-2338-5202?lang=en">ORCID</a>
+  <a href="https://orcid.org/0009-0008-2338-5202">ORCID</a>
   &nbsp;•&nbsp;
-  <a href="https://scholar.google.com/citations?user=6hUzTXwAAAAJ&hl=en&authuser=1">Google Scholar</a>
+  <a href="https://scholar.google.com/citations?user=6hUzTXwAAAAJ&hl=en">Google Scholar</a>
 </p>
 
 ---
